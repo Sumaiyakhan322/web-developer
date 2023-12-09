@@ -1,6 +1,5 @@
-## The website name is : WebBazaar
-## Live link of this website is:[Click here to go to WebBazaar  website ](//webbazaar-creations.web.app/
-)
+## WebBazaar Website
+## Live link of this website is:[Click here to go to WebBazaar  website ](//webbazaar-creations.web.app/)
 
 ## The WebBazaar  is a website of many features
 
@@ -12,3 +11,6 @@ The major 5 features of the websites are:
 * On home page there is tabs of all jobs user can bid any jobs but he can not bid to his jobs
 * On the bid requests page user find the bids of his jobs he can reject or accept any job .If he reject/ accaept the job the button will be hide
 * On the my bids section user find the bids job he find the status in progress,pending and complete .On the status in progress he can complete  the job
+
+## The languages and frame works used here
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,express,mongodb,nodejs)](https://skillicons.dev)
